@@ -1,0 +1,20 @@
+# environment
+*.env
+
+# virtual environment
+qiskit_env/
+
+# chashe of python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# settings VSCode
+.vscode/
+
+# os generated files
+.DS_Store
+Thumbs.db
