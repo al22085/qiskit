@@ -1,0 +1,3 @@
+[submodule "external/qc_workbook"]
+	path = external/qc_workbook
+	url = https://github.com/utokyo-icepp/qc-workbook.git
