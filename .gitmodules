@@ -1,3 +1,3 @@
-[submodule "external/qc-workbook"]
-	path = external/qc-workbook
-	url = https://github.com/al22085/qc-workbook
+[submodule "external/qc_workbook"]
+	path = external/qc_workbook
+	url = https://github.com/al22085/qc_workbook
