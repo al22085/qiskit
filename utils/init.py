@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from IPython.display import Math
 from scipy.optimize import minimize, Bounds
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, transpile
-from qiskit.visualization import plot_distribution
+from qiskit.visualization import plot_distribution, plot_histogram
 from qiskit_ibm_runtime import QiskitRuntimeService, SamplerV2 as IBMSampler
 from qiskit_ibm_runtime.accounts import AccountNotFoundError
 from qiskit_aer import AerSimulator
